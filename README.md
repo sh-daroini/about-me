@@ -6,9 +6,9 @@ I'm a passionate **Beginner Developer** who loves learning new technologies and 
 
 ### 🚀 About Me
 - 🌱 I’m currently learning: **React.js and Tailwind CSS**
-- 🔭 I’m working on: **Personal Portfolio & To-do List App**
+- 🔭 I’m working on: **Personal Portfolio, To-do List App and Expense Tracker App**
 - 🎯 Goal: **To become a Junior Fullstack Developer**
-- 📫 How to reach me: [daroen662@gmail.com](mailto:daroen662@gmail.com)
+- 📫 How to reach me: [sh.daroini@gmail.com](mailto:sh.daroini@gmail.com)
 
 ### 🛠 Tech Stack
 - **Languages:** HTML, CSS, JavaScript (Learning)
