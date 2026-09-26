@@ -14,10 +14,9 @@ frontend and backend development skills.
 
 ## About Me
 
-🌱 Currently learning React.js & Tailwind CSS
-💻 Building practical web applications
-🎯 Preparing for a Junior Fullstack Developer role
-📍 Indonesia
+- 💻 Building practical web applications
+- 🎯 Preparing for a Junior Fullstack Developer role
+- 📍 Indonesia
 
 ---
 
