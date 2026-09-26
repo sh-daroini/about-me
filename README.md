@@ -4,7 +4,7 @@ I'm a passionate **Beginner Developer** who loves learning new technologies and 
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250">
 
-### 🚀 About Me
+### 🚀 About Me 
 - 🌱 I’m currently learning: **React.js and Tailwind CSS**
 - 🔭 I’m working on: **Personal Portfolio, To-do List App and Expense Tracker App**
 - 🎯 Goal: **To become a Junior Fullstack Developer**
