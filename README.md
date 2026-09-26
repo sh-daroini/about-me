@@ -1,31 +1,59 @@
 
-![Syaihan](img/github-header-banner%20(3).png)
-I'm a passionate **Beginner Developer** who loves learning new technologies and building small projects to solve daily problems.
+# Hi, I'm Syaihan 👋
+
+### Junior Fullstack Developer
+
+I build web applications with JavaScript and modern
+web technologies, while continuously improving my
+frontend and backend development skills.
 
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="250">
 
-### 🚀 About Me 
-- 🌱 I’m currently learning: **React.js and Tailwind CSS**
-- 🔭 I’m working on: **Personal Portfolio, To-do List App and Expense Tracker App**
-- 🎯 Goal: **To become a Junior Fullstack Developer**
-- 📫 How to reach me: [sh.daroini@gmail.com](mailto:sh.daroini@gmail.com)
 
-### 🛠 Tech Stack
+---
+
+## About Me
+
+🌱 Currently learning React.js & Tailwind CSS
+💻 Building practical web applications
+🎯 Preparing for a Junior Fullstack Developer role
+📍 Indonesia
+
+---
+
+<!-- ### 🛠 Tech Stack
 - **Languages:** HTML, CSS, JavaScript (Learning)
-- **Tools:** VS Code, Git, GitHub
-<!--
-**daroen662/daroen662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Tools:** VS Code, Git, GitHub -->
 
-Here are some ideas to get you started:
+## Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js
+- Tailwind CSS
+- REST API
+- Database design
+- Authentication
+- Fullstack application architecture
 
+---
 
+## Tech Stack
+
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+---
+
+## Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh.daroini.com)
+
+<!-- [![LinkedIn](https://shields.io)](https://linkedin.com) -->
